@@ -5,8 +5,8 @@ function App() {
   return (
     <>
 
-        <div className="space-y-6">
-          <h1 className="text-2xl font-bold logo ">
+        <div className="space-y-6 logo">
+          <h1 className="text-2xl font-bold ">
             Hey, I'm Mustafa, a developer who enjoys building things.
           </h1>
           <p>
